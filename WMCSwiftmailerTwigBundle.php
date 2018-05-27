@@ -1,6 +1,6 @@
 <?php
 
-namespace WMC\SwiftmailerTwigBundle;
+namespace botnyx\SwiftmailerTwigBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
