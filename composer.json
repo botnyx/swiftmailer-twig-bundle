@@ -1,5 +1,5 @@
 {
-    "name": "wemakecustom/swiftmailer-twig-bundle",
+    "name": "botnyx/swiftmailer-twig-bundle",
     "type": "symfony-bundle",
     "license": "MIT",
     "keywords": ["SwiftMailer", "Twig", "Bridge", "FOSUB", "EMail Templating"],
@@ -15,7 +15,7 @@
     ],
     "description": "WeMakeCustom Bridge between SwiftMailer Twig",
     "autoload": {
-        "psr-4": { "WMC\\SwiftmailerTwigBundle\\": "" }
+        "psr-4": { "botnyx\\SwiftmailerTwigBundle\\": "" }
     },
     "require": {
         "php": ">=5.3.3",
