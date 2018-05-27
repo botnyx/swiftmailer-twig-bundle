@@ -1,5 +1,5 @@
 {
-    "name": "botnyx/swiftmailer-twig-bundle",
+    "name": "botnyx/swift-twig",
     "type": "symfony-bundle",
     "license": "MIT",
     "keywords": ["SwiftMailer", "Twig", "Bridge", "FOSUB", "EMail Templating"],
