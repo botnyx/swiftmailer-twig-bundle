@@ -1,6 +1,6 @@
 <?php
 
-namespace WMC\SwiftmailerTwigBundle\DependencyInjection;
+namespace botnyx\SwiftmailerTwigBundle\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\Config\FileLocator;
