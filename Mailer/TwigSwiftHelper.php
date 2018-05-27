@@ -1,6 +1,6 @@
 <?php
 
-namespace WMC\SwiftmailerTwigBundle\Mailer;
+namespace botnyx\SwiftmailerTwigBundle\Mailer;
 
 use Swift_Mailer;
 use Swift_Message;
