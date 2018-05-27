@@ -1,6 +1,6 @@
 <?php
 
-namespace WMC\SwiftmailerTwigBundle\Mailer;
+namespace botnyx\SwiftmailerTwigBundle\Mailer;
 
 use FOS\UserBundle\Mailer\MailerInterface;
 use FOS\UserBundle\Model\UserInterface;
