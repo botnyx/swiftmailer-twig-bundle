@@ -1,6 +1,6 @@
 <?php
 
-namespace WMC\SwiftmailerTwigBundle\DependencyInjection;
+namespace botnyx\SwiftmailerTwigBundle\DependencyInjection;
 
 use Symfony\Component\Config\Definition\Builder\TreeBuilder;
 use Symfony\Component\Config\Definition\ConfigurationInterface;
