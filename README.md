@@ -1,4 +1,5 @@
-# WMC SwiftMailer Twig bridge
+
+# Swift-Twig mailer bridge.
 
 This bundle provides an easy way to create email templates using Twig for the
 SwiftMailer library.
